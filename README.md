@@ -1,3 +1,1 @@
-# ObjectOrientedProgramming
-
-<img src=https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3lsd3FzZmgyaXg5ZnZwc2l6Y2xybzJqZ2NhazYydDBid3VhYXQ2biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/tVhJw24Gv8FGGlnjDN/giphy.gif >
+ObjectOrientedProgramming  <img src=https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3lsd3FzZmgyaXg5ZnZwc2l6Y2xybzJqZ2NhazYydDBid3VhYXQ2biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/tVhJw24Gv8FGGlnjDN/giphy.gif align="right" width="170" height="170" >
